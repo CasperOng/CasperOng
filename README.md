@@ -5,7 +5,11 @@
 - 👀 I’m interested in programming and some computer stuffs.
 - 🌱 I’m currently learning node.js python HTML and CSS
 - 💞️ I’m looking to collaborate on discord.py development.
-- 📫 How to reach me casper@casperstudio.cf and Casper Ong#4661
+
+## Soical Media
+- [YouTube Channel](https://www.youtube.com/channel/UCHPayb2Xrn_lcbMgrKLs70A)
+- [Instagram](https://www.instagram.com/casper.ahh_/)
+- [Twitter](https://twitter.com/TheRealCasperHK)
 
 #### Languages / Frameworks / Tools:  
 <a href="https://www.python.org" target="_blank"> 
