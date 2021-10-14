@@ -10,6 +10,7 @@
 - [YouTube Channel](https://www.youtube.com/channel/UCHPayb2Xrn_lcbMgrKLs70A)
 - [Instagram](https://www.instagram.com/casper.ahh_/)
 - [Twitter](https://twitter.com/TheRealCasperHK)
+- [Discord Server](https://discord.gg/rQC5ydrbmC)
 
 #### Languages / Frameworks / Tools:  
 <a href="https://www.python.org" target="_blank"> 
