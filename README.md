@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning node.js python HTML and CSS
 - 💞️ I’m looking to collaborate on discord.py development.
 
-## Soical Media
+## Social Media
 - [YouTube Channel](https://www.youtube.com/channel/UCHPayb2Xrn_lcbMgrKLs70A)
 - [Instagram](https://www.instagram.com/casper.ahh_/)
 - [Twitter](https://twitter.com/TheRealCasperHK)
