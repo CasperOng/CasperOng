@@ -2,7 +2,7 @@
 <p align="center"> I'm a Programmer / FrontEnd / Youtuber </p>
 
 - 👋 Hi, I’m @CasperOng
-- 👀 I’m interested in programming and some computer stuffs.
+- 👀 I’m interested in programming and some computer stuff.
 - 🌱 I’m currently learning node.js python HTML and CSS
 - 💞️ I’m looking to collaborate on discord.py development.
 
