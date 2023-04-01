@@ -47,6 +47,6 @@
 > ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
 > ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-##### Stuff I use to create
+- ##### Other Stuff I use to create
 
 > ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,blender,ps,pr,ae)
