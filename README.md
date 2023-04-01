@@ -49,4 +49,4 @@
 
 ##### STUFF I USE TO CODE
 
-> ![My Skills](https://skillicons.dev/icons?i=vscode,discord,blender,ps,pr,ae,docker,figma)](https://skillicons.dev)
+> ![My Skills](https://skillicons.dev/icons?i=vscode,discord,blender,ps,pr,ae,docker,figma)
