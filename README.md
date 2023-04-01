@@ -1,17 +1,12 @@
 <h1 align="center">Hi there I'm Casper 🔰</h1>
-<p align="center"> I'm a Programmer / FrontEnd / Youtuber </p>
-
-- 👋 Hi, I’m @CasperOng
-- 👀 I’m interested in programming and some computer stuff.
-- 🌱 I’m currently learning node.js python HTML and CSS
-- 💞️ I’m looking to collaborate on discord.py development.
+<p align="center"> I'm a full stack developer.</p>
 
 [![Please do not theme this app](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
 ## Social Media
 - [YouTube Channel](https://www.youtube.com/channel/UCHPayb2Xrn_lcbMgrKLs70A)
-- [Instagram](https://www.instagram.com/casper.ahh_/)
+- [Instagram](https://www.instagram.com/casper.ong.ny)
 - [Twitter](https://twitter.com/TheRealCasperHK)
-- [Discord Server](https://discord.gg/rQC5ydrbmC)
+- [My Main Website](https://www.casperong.eu.org)
 
 ##### MY TECH STACK:
 
